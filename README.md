@@ -22,4 +22,4 @@
 <h3 align='center'>Связь со мной</h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/webtitovdev)
-[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)](<(https://wa.me/79896375340)>)
+[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)](https://wa.me/79896375340)
