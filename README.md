@@ -23,5 +23,5 @@
 <h2 align='center'>Contact</h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/webtitovdev)
-[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)]((https://wa.me/79896375340))
-[![linkedin](https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/webtitovdev/))
+[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)](https://wa.me/79896375340)
+[![linkedin](https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/webtitovdev/)
