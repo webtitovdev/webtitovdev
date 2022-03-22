@@ -11,8 +11,10 @@
 <h2 align='center'>Tech stak</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=TypeScript)
 ![react](https://img.shields.io/badge/react-111111?style=for-the-badge&logo=React)
 ![redux](https://img.shields.io/badge/redux_toolkit-111111?style=for-the-badge&logo=Redux)
+![next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js)
 ![react_router](https://img.shields.io/badge/react_router-111111?style=for-the-badge&logo=ReactRouter)
 ![scss](https://img.shields.io/badge/scss-111111?style=for-the-badge&logo=sass)
 ![Git](https://img.shields.io/badge/git-111111?style=for-the-badge&logo=git)
