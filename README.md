@@ -1,6 +1,6 @@
 <h2 align='center'>About</h2>
 
-<h3> I develop projects on React with the Redux state manager. Freelancing experience 2 years (layout + js). Now in the process of learning TypeScript, at the same time looking for a job.</h3>
+<h3>Hey! In parallel with the main work in another area, I studied html and css. After half a year and a couple of completed projects for friends, I started freelancing. At the moment, I decided to make development the main activity. I am looking for a job with an interesting project and a strong, responsive team, I easily find a common language with people, I am constantly learning and developing.</h3>
 
 <h2 align='center'>My project</h2>
 
