@@ -1,6 +1,6 @@
 <h2 align='center'>About</h2>
 
-<h3>Hey! In parallel with the main work in another area, I studied html and css. After half a year and a couple of completed projects for friends, I started freelancing. At the moment, I decided to make development the main activity. I am looking for a job with an interesting project and a strong, responsive team, I easily find a common language with people, I am constantly learning and developing.</h3>
+<h3>Hello! I always wanted to make a product that the user can evaluate, so I chose Front-end. I have been developing since 2019. During this time, I participated in the development of various types of sites/applications, ranging from simple landing pages to CRM systems with complex business logic. Despite the fact that I have been in this area for a long time, every day I learn something new for myself.</h3>
 
 <h2 align='center'>My project</h2>
 
